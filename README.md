@@ -1,4 +1,4 @@
-Link to the Notebook: https://www.wolframcloud.com/obj/838b8f2a-ad79-4fb4-9ee8-ba854159b6c9
+Link to the Wolfram Notebook: https://www.wolframcloud.com/obj/838b8f2a-ad79-4fb4-9ee8-ba854159b6c9
 
 # Data Science II Project: Predicting Future Crop Yields
 
