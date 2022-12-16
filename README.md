@@ -8,10 +8,8 @@ This project aims at using climate data to predict future crop production volume
 
 ### Useful links:
 
-Link to the YouTube video that explains the processing of the data from the GAEZ v4 data portal to ArcGIS Pro: https://youtu.be/7cXfD_EseWQ 
-
 Link to the cloud deployment of our model: https://www.wolframcloud.com/obj/nicolas.wille/WebServices/FormJasNico 
 
-Link to the YouTube video that explains our notebook: https://www.youtube.com/watch?v=6MVsSD8PegA
+Link to the YouTube video that explains the processing of the data from the GAEZ v4 data portal to ArcGIS Pro: https://youtu.be/7cXfD_EseWQ 
 
-Link to our Wolfram Mathematica notebook: 
+Link to the YouTube video that explains our Wolfram Mathematica notebook: https://www.youtube.com/watch?v=n7YH2FatplA
