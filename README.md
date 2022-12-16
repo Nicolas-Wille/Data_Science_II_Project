@@ -12,4 +12,6 @@ Link to the YouTube video that explains the processing of the data from the GAEZ
 
 Link to the cloud deployment of our model: https://www.wolframcloud.com/obj/nicolas.wille/WebServices/FormJasNico 
 
-Link to the YouTube video that explains our notebook: 
+Link to the YouTube video that explains our notebook: https://www.youtube.com/watch?v=6MVsSD8PegA
+
+Link to our Wolfram Mathematica notebook: 
