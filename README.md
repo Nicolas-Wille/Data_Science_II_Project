@@ -8,6 +8,8 @@ This project aims at using climate data to predict future crop production volume
 
 ### Useful links:
 
+Link to the Wolfram Mathematica notebook we use for our analysis: https://www.wolframcloud.com/obj/838b8f2a-ad79-4fb4-9ee8-ba854159b6c9 
+
 Link to the cloud deployment of our model: https://www.wolframcloud.com/obj/nicolas.wille/WebServices/FormJasNico 
 
 Link to the YouTube video that explains our Wolfram Mathematica notebook: https://www.youtube.com/watch?v=n7YH2FatplA
